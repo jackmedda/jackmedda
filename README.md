@@ -2,11 +2,11 @@
 <h3 align="center">A researcher on the biased and unfair impacts on end-users in recommender and speaker recognition systems</h3>
 
 - 🔭 I’m currently working on **Unfairness Mitigation and Explainability**
-
+<!-- 
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Machine Learning, Deep Learning**
-
+ -->
 - 📫 How to reach me **giacomo.medda@unica.it**
 
 - 📄 Know about my experiences [https://jackmedda.github.io/cv/](https://jackmedda.github.io/cv/)
