@@ -1,20 +1,21 @@
-[<img align="left" height="25" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://linkedin.com/in/giacomo-medda-4b7047200)
-[<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=ZG5aEsAAAAAJ&hl=en)
-[<img align="left" height="25" src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/refs/heads/master/material/templates/.icons/fontawesome/solid/globe.svg" />](https://jackmedda.github.io/)
-[<img align="left" height="25" src="https://raw.githubusercontent.com/tabler/tabler-icons/refs/heads/main/icons/filled/file-cv.svg" />](https://jackmedda.github.io/cv/)  
-&nbsp;
+<p align="left">
+  <a href="https://linkedin.com/in/giacomo-medda-4b7047200">
+    <img src="https://img.shields.io/badge/LinkedIn-Giacomo%20Medda-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=ZG5aEsAAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  </a>
+  <a href="https://jackmedda.github.io/">
+    <img src="https://img.shields.io/badge/Website-jackmedda.github.io-222222?style=flat" alt="Website" />
+  </a>
+  <a href="https://jackmedda.github.io/cv/">
+    <img src="https://img.shields.io/badge/CV-Read%20online-555555?style=flat" alt="CV" />
+  </a>
+</p>
 
-Postdoctoral Researcher @ University of Cagliari  
-PhD from University of Cagliari
+Research Scientist in machine learning and recommender systems, focusing on fairness, explainability, graph-based learning, and LLM-driven AI systems.
 
-<h3 align="left">Languages and Tools:</h3>
+Research Collaborator at the University of Cagliari  
+PhD in Recommender Systems & Responsible AI
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />](https://pandas.pydata.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />](https://www.python.org)
-[<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />](https://pytorch.org/)
-[<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" />](https://seaborn.pydata.org/)
-[<img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" alt="pytorch-geometric" width="110" height="100" />](https://github.com/pyg-team/pytorch_geometric)
-
-<div style="display: inline;"><img height="150" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jackmedda&show_icons=true&locale=en&layout=compact" alt="jackmedda" />
-
-<img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=jackmedda&show_icons=true&locale=en" alt="jackmedda" /></div>
+**Core stack:** Python, PyTorch, Polars, Numpy, FastAPI, Docker, GitHub Actions
